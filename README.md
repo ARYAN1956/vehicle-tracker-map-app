@@ -31,6 +31,8 @@ A modern React-based web application that simulates real-time movement of multip
 ---
 
 ## 🖥️ Demo
+ <img width="1891" height="864" alt="Demo screenshot" src="https://github.com/user-attachments/assets/67d86c8b-c1e5-4c90-8795-a5b097127c22" />
+
 
 🟢 Live on Netlify: [https://your-netlify-link.netlify.app](https://vehicle-tracker-map-app.netlify.app/)  
 📦 GitHub Repo: [https://github.com/ARYAN1956/vehicle-tracker-map-app](https://github.com/ARYAN1956/vehicle-tracker-map-app)
